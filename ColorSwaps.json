@@ -1,0 +1,4171 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "ColorSchemeTypes": {
+        "_attributes": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+        },
+        "ColorSchemeType": [
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Template"
+                },
+                "ColorSchemeID": {
+                    "_text": "0"
+                },
+                "DefaultUnlocked": {
+                    "_text": "--"
+                },
+                "DisplayNameKey": {
+                    "_text": "Must be a valid entry in stringTable.xml"
+                },
+                "IconName": {
+                    "_text": "--"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "0"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "false"
+                },
+                "HairLt_Swap": {
+                    "_text": "--"
+                },
+                "Hair_Swap": {
+                    "_text": "--"
+                },
+                "HairDk_Swap": {
+                    "_text": "--"
+                },
+                "Body1VL_Swap": {
+                    "_text": "--"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "--"
+                },
+                "Body1_Swap": {
+                    "_text": "--"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "--"
+                },
+                "Body1VD_Swap": {
+                    "_text": "--"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "--"
+                },
+                "Body2VL_Swap": {
+                    "_text": "--"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "--"
+                },
+                "Body2_Swap": {
+                    "_text": "--"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "--"
+                },
+                "Body2VD_Swap": {
+                    "_text": "--"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "--"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "--"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "--"
+                },
+                "Special_Swap": {
+                    "_text": "--"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "--"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "--"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "--"
+                },
+                "HandsLt_Swap": {
+                    "_text": "--"
+                },
+                "HandsDk_Swap": {
+                    "_text": "--"
+                },
+                "HandsSkinLt_Swap": {
+                    "_text": "--"
+                },
+                "HandsSkinDk_Swap": {
+                    "_text": "--"
+                },
+                "ClothVL_Swap": {
+                    "_text": "--"
+                },
+                "ClothLt_Swap": {
+                    "_text": "--"
+                },
+                "Cloth_Swap": {
+                    "_text": "--"
+                },
+                "ClothDk_Swap": {
+                    "_text": "--"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "--"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "--"
+                },
+                "Weapon_Swap": {
+                    "_text": "--"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "--"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "--"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "--,--"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "--"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "--"
+                },
+                "IndicatorColor": {
+                    "_text": "--"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Red"
+                },
+                "ColorSchemeID": {
+                    "_text": "1"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Red_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Red"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "11"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x963E25"
+                },
+                "Hair_Swap": {
+                    "_text": "0x600D09"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x33160B"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xF7AF91"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xEF6F58"
+                },
+                "Body1_Swap": {
+                    "_text": "0xCF1F31"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x761B32"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x560222"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xB5313A"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xDE989D"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xC06770"
+                },
+                "Body2_Swap": {
+                    "_text": "0x8D2945"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x58122D"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x3C1021"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x9C3C50"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFD2D2"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xD0012B"
+                },
+                "Special_Swap": {
+                    "_text": "0x5C0118"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x2B000B"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x1E030A"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x690268"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E4E1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xEEBDB7"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC68A91"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA35162"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFE7E7"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xB8B3B3"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x807474"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x563838"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x987A7F"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Orange,Pink,TeamRed1,Sunset,Valhallentines"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xCF1F31"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Blue"
+                },
+                "ColorSchemeID": {
+                    "_text": "2"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Blue_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Blue"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "1"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x4B6387"
+                },
+                "Hair_Swap": {
+                    "_text": "0x242D53"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x171A1E"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xBBE2FF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x6FADFB"
+                },
+                "Body1_Swap": {
+                    "_text": "0x0A77EF"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x0C4994"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0B366B"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x607DF5"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xA2DFEA"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x63A6BC"
+                },
+                "Body2_Swap": {
+                    "_text": "0x367987"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x24424D"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x203138"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x247E99"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE8FFFE"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xA7F5FC"
+                },
+                "Special_Swap": {
+                    "_text": "0x44E3E3"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x409EB3"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x2E7787"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x8CBCFF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE0E4FC"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xBFC8E5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x97A7BF"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x576D8A"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xE7EFFF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xA9B0BB"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x747680"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x32455D"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x7D8B9F"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Green,Cyan,TeamBlue1,CommunityColors,Ranked,Ranked2"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x0A77EF"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Yellow"
+                },
+                "ColorSchemeID": {
+                    "_text": "3"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Yellow_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Yellow"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "2"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xE7DCB6"
+                },
+                "Hair_Swap": {
+                    "_text": "0xD4B759"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x836625"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFEFFF0"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFBF8C4"
+                },
+                "Body1_Swap": {
+                    "_text": "0xFAE658"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xECAB33"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0xD0952D"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xFECA83"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFEE8C"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFFD36C"
+                },
+                "Body2_Swap": {
+                    "_text": "0xFDAE37"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xD37516"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0xA35E1B"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xFFB379"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFE9DD"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFFC09B"
+                },
+                "Special_Swap": {
+                    "_text": "0xFF8135"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xCE4A0B"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x983302"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xFFC535"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFDFFEE"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xFAF8C5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xEEE49D"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xE7CA92"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFF9E2"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xBDBCB3"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x807E72"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x695237"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x9F8F7A"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Orange,White,Grey,Summer,Ranked2"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xFAE658"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Green"
+                },
+                "ColorSchemeID": {
+                    "_text": "4"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Green_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Green"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "3"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x8F966D"
+                },
+                "Hair_Swap": {
+                    "_text": "0x626653"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x393E31"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xBBFBC0"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x8DE481"
+                },
+                "Body1_Swap": {
+                    "_text": "0x25C76D"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x1E9565"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0E7249"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x1DCF95"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0x80B5AE"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x497C75"
+                },
+                "Body2_Swap": {
+                    "_text": "0x314F48"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x273433"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x1E2726"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x407373"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFEFFF0"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFAF7C0"
+                },
+                "Special_Swap": {
+                    "_text": "0xF2EB53"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xF2C53C"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xB6983D"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xC7F253"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE7FFEA"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xD5EED2"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xA6CBB7"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x7AA895"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xEEFFF1"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xB3BDB3"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x798071"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x3B5839"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x889F7D"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,Cyan,TeamBlue1,Holiday,StPaddy,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x25C76D"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Orange"
+                },
+                "ColorSchemeID": {
+                    "_text": "5"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Orange_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Orange"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "6"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xD08133"
+                },
+                "Hair_Swap": {
+                    "_text": "0xAD5A09"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x4A2809"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFE7BF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFFBC48"
+                },
+                "Body1_Swap": {
+                    "_text": "0xF58218"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xAA240D"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x771606"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xDB5530"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xEEDDD8"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xDB917D"
+                },
+                "Body2_Swap": {
+                    "_text": "0xB86258"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x722929"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x4F0D0D"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xC98563"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xF5DAE7"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xD97F92"
+                },
+                "Special_Swap": {
+                    "_text": "0xCB295D"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x80082E"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x58182C"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xDE5F47"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E6D1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xFAD592"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xEEAA6B"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xD07B63"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFECDB"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xBFB9AE"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x79726C"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x563B2A"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x9A8479"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Red,Yellow,Brown,Pink,TeamRed1,Sunset,Summer"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF58218"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Purple"
+                },
+                "ColorSchemeID": {
+                    "_text": "6"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Purple_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Purple"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "5"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xCBBBFF"
+                },
+                "Hair_Swap": {
+                    "_text": "0x7767E9"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x3129A1"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xECD9FF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xCA93FF"
+                },
+                "Body1_Swap": {
+                    "_text": "0x874CD0"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x4E2680"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x312243"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xC559E2"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xDCDEF3"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xA7A9E7"
+                },
+                "Body2_Swap": {
+                    "_text": "0x6668B4"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x3C396D"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x2A293F"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xA57DCB"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE7F9FF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xB4F0FF"
+                },
+                "Special_Swap": {
+                    "_text": "0x5DD3E7"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x0679A8"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x18536B"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x8CA9FF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE9DFF5"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xDBC7EE"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xB192D7"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x876AAD"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xEEECFF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xADA9BB"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x656174"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x3F3858"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x717498"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Brown,Cyan,Black,TeamRed1"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x874CD0"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Brown"
+                },
+                "ColorSchemeID": {
+                    "_text": "7"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Brown_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Brown"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "4"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xC4AA8C"
+                },
+                "Hair_Swap": {
+                    "_text": "0x724B32"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x433224"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xE7D2B4"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xA6682D"
+                },
+                "Body1_Swap": {
+                    "_text": "0x723A18"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x432411"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x331706"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xA67A16"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xE2D0D0"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x8E7176"
+                },
+                "Body2_Swap": {
+                    "_text": "0x5B393E"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x332122"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x201718"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x8A614E"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFEFEC"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFF5454"
+                },
+                "Special_Swap": {
+                    "_text": "0xE50C1B"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x5F0502"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x410A09"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE9570F"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE9DCC9"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xBFA68E"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x957865"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x725848"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFF5EC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xB8B5B0"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x69635F"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x4D3932"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x937E7B"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Orange,Purple,Black,TeamRed1,CommunityColors"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x723A18"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Cyan"
+                },
+                "ColorSchemeID": {
+                    "_text": "8"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Cyan_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Cyan"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "7"
+                },
+                "Rarity": {
+                    "_text": "M"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x4173AF"
+                },
+                "Hair_Swap": {
+                    "_text": "0x254467"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x0E253D"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xDAFCF8"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xA2EEE2"
+                },
+                "Body1_Swap": {
+                    "_text": "0x50CCD7"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x30809C"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x2C5462"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x7DE7BB"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xD7F7F2"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xACE3D5"
+                },
+                "Body2_Swap": {
+                    "_text": "0x84C9AB"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x508379"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x3D5450"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x93D0C4"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFEFAE"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFFD36F"
+                },
+                "Special_Swap": {
+                    "_text": "0xFCA92E"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xF45F04"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xA64104"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE9E755"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE3FAF7"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xC6F3EC"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xA4DDE2"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x7CAEBF"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xE7FFFC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xAFBBB9"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x707C7E"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x295666"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x8AA6A3"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,Green,Purple,TeamBlue1,CommunityColors"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x50CCD7"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Pink"
+                },
+                "ColorSchemeID": {
+                    "_text": "9"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Pink_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Pink"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "10"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFDD9FF"
+                },
+                "Hair_Swap": {
+                    "_text": "0xDE8CE2"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xAE59B8"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFEE9F7"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFCB6E1"
+                },
+                "Body1_Swap": {
+                    "_text": "0xF383C0"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xCF54A4"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0xB13F89"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xDE90E7"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFDF5FF"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xF3C8F2"
+                },
+                "Body2_Swap": {
+                    "_text": "0xDBA1DA"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xB871B3"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x8E538A"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xEC91D6"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE8E7FF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xD5C9FF"
+                },
+                "Special_Swap": {
+                    "_text": "0xAE95FF"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x8950F3"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x5E38A6"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE295FF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFFE7F6"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xFAD7ED"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xF3BBDA"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xDE96C5"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFECFB"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xC4B6C0"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x958792"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x85546F"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xB494B6"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Red,Orange,TeamRed1,Sunset,Valhallentines"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF383C0"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "White"
+                },
+                "ColorSchemeID": {
+                    "_text": "10"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_White_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_White"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "18"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "Hair_Swap": {
+                    "_text": "0xF7F9F9"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xBCCDE0"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xF9FCFE"
+                },
+                "Body1_Swap": {
+                    "_text": "0xEEF4F5"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xB6CADE"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x9EB3C9"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xDDE7EC"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xF5F9FC"
+                },
+                "Body2_Swap": {
+                    "_text": "0xF5F9FC"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xB4C6DC"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x9EB1C9"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xD9E2EC"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xB8C4D8"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x97A9C6"
+                },
+                "Special_Swap": {
+                    "_text": "0x6680AA"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x465B80"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x3B485F"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x7B7AB6"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xF5F8FA"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xEAF1F5"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xD8E3EE"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xDDE7EE"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xC3D5E2"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x7592B5"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xC4D4F0"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Yellow,Grey"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xEEF4F5"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Black"
+                },
+                "ColorSchemeID": {
+                    "_text": "11"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Black_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Black"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "19"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "BroadcasterEnabled": {
+                    "_text": "true"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x535560"
+                },
+                "Hair_Swap": {
+                    "_text": "0x2C2B31"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x07070A"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0x9FA0A3"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x4F5562"
+                },
+                "Body1_Swap": {
+                    "_text": "0x2D313A"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x181F25"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0E0E12"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x34424A"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0x636569"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x373A3F"
+                },
+                "Body2_Swap": {
+                    "_text": "0x222527"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x161A1C"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x010102"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x282E35"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xAF0C29"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x8E0B22"
+                },
+                "Special_Swap": {
+                    "_text": "0x690A1E"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x46001E"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x2E0113"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x690050"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0x797F8C"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0x585E69"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x41454D"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x202A33"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0x9A9B9F"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x525258"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x303035"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x020202"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x5E5864"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Purple,Brown,Grey,Brawlhalloween,HomeTeam,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x24272D"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "GameFuel"
+                },
+                "ColorSchemeID": {
+                    "_text": "12"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_GameFuel_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_GameFuel"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "27"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x534f53"
+                },
+                "Hair_Swap": {
+                    "_text": "0x1e1c1d"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x010101"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0x656365"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x534f53"
+                },
+                "Body1_Swap": {
+                    "_text": "0x333033"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x181416"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x030304"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x3b3f32"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xefffad"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xccf666"
+                },
+                "Body2_Swap": {
+                    "_text": "0x95c93c"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x619606"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x3c6e00"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x8aae0c"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xf5faf3"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xf5faf3"
+                },
+                "Special_Swap": {
+                    "_text": "0xe9efe6"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xd2dacf"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xb6beb1"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xeff4e7"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xc0bec2"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0x8e8b91"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x5b565b"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x322f32"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xfefff0"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xf0f3e5"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xc8ccbf"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0xa1a795"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xc1c8a1"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Black,HomeTeam,Ranked,Ranked2,Holiday,Green,StPaddy"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x95c93c"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Sunset"
+                },
+                "ColorSchemeID": {
+                    "_text": "19"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Sunset_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Sunset"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "8"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFFF5E1"
+                },
+                "Hair_Swap": {
+                    "_text": "0xFFDD99"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xEC9742"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFBD2E1"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xE886B1"
+                },
+                "Body1_Swap": {
+                    "_text": "0xD72F7A"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x852162"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x620040"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xC84FB6"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xC186E6"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x943CC8"
+                },
+                "Body2_Swap": {
+                    "_text": "0x5E247F"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x36216C"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x231B38"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x643FC5"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFEFE8"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFFD7C6"
+                },
+                "Special_Swap": {
+                    "_text": "0xFFAC8A"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xFF6624"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xC64812"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xFF9CA1"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFFE0F2"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xEEBCE8"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xD899DB"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xBF67A1"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFE2FC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x6553B8"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x303087"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x2E1B4F"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x6339C9"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Red,Orange,Pink,TeamRed1,Valhallentines"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xD72F7A"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Grey"
+                },
+                "ColorSchemeID": {
+                    "_text": "20"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Grey_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Grey"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "9"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xA5AFBC"
+                },
+                "Hair_Swap": {
+                    "_text": "0x535A66"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x30343A"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xE9ECEF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xC6D2D9"
+                },
+                "Body1_Swap": {
+                    "_text": "0xAAB8BD"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x69757D"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x46525B"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x8C9CAA"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xC2C9D1"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x8A98A8"
+                },
+                "Body2_Swap": {
+                    "_text": "0x5A6A7B"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x282736"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x1A1920"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x474170"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFFAE6"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFED98B"
+                },
+                "Special_Swap": {
+                    "_text": "0xFEB341"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xFD6B00"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xAA571A"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xF0D763"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xEEF4FA"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xE3E5E7"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xD1D6D7"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA6AEB4"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xDEE1E5"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x9599A1"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x5A5D66"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x353C3C"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x74748E"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Yellow,White,Black,CommunityColors"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xAAB8BD"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "CommunityColors"
+                },
+                "ColorSchemeID": {
+                    "_text": "21"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_CommunityColors_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_CommunityColor"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "30"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x5A6D9E"
+                },
+                "Hair_Swap": {
+                    "_text": "0x323366"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x1C1E27"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xCBEEE5"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xB89685"
+                },
+                "Body1_Swap": {
+                    "_text": "0x8A6453"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x49495F"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x282843"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x52708D"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xB4EBF1"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x5FA2D8"
+                },
+                "Body2_Swap": {
+                    "_text": "0x2C5E94"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x17337B"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x102252"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x244FBD"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xF1FFBF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFDE38C"
+                },
+                "Special_Swap": {
+                    "_text": "0xFAC205"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xF78009"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xBF4B1F"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE5E349"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xDFE9E7"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xC4B8B2"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xB4A29B"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x686C79"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xDAEBF7"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xB6B1AC"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x857E7F"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x3C4256"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x939CAA"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,Brown,Cyan,TeamBlue1,Grey,Ranked,Ranked2"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x8A6453"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Holiday"
+                },
+                "ColorSchemeID": {
+                    "_text": "22"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Holiday_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Holiday"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "20"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFBFDFB"
+                },
+                "Hair_Swap": {
+                    "_text": "0xE6ECEC"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xBCD0D3"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0x31A68B"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x12856B"
+                },
+                "Body1_Swap": {
+                    "_text": "0x006256"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x003C35"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x002220"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x007160"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xCCE8A2"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x9CD374"
+                },
+                "Body2_Swap": {
+                    "_text": "0x84B953"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x518E48"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x3D694F"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x57BE52"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFCFC9"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xDB4F3E"
+                },
+                "Special_Swap": {
+                    "_text": "0xB8302D"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x800C29"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x56071B"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xB82D81"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xB3DBC9"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0x8EC4A8"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x65A880"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x3C8059"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xEEF0EC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xD5DACF"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xB0BBA6"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x889E72"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xBDD4C9"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Green,StPaddy,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x006256"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Valhallentines"
+                },
+                "ColorSchemeID": {
+                    "_text": "23"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Valhallentines_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Valentines"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "21"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xEC5F76"
+                },
+                "Hair_Swap": {
+                    "_text": "0xD02D59"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x831948"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFFAFD"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFFE2F9"
+                },
+                "Body1_Swap": {
+                    "_text": "0xFFC6E9"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xFFADE7"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0xF374CE"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xF1BFFF"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFCDE0"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFF85B4"
+                },
+                "Body2_Swap": {
+                    "_text": "0xE70612"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xA60027"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x7B0014"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xF33EA1"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFFE2F4"
+                },
+                "Special_Swap": {
+                    "_text": "0xE5F6F7"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xEDD4FF"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xBA98D2"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE2FFE2"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xF6F5FA"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xEDEAF5"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xE8D8EE"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFFAFD"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xF6F1FF"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xEBE5FA"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0xFFC4FB"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xE5F0FA"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Red,Pink,TeamRed1,Sunset"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF383C0"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Summer"
+                },
+                "ColorSchemeID": {
+                    "_text": "26"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Summer_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_BeachBallBrawl"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "22"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFFF9E7"
+                },
+                "Hair_Swap": {
+                    "_text": "0xFFF1CB"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xF7DB86"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFFFFB"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFFFDB9"
+                },
+                "Body1_Swap": {
+                    "_text": "0xFFE680"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xFF926C"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0xFF5E46"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xFFD9D7"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFE4CC"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFFC28C"
+                },
+                "Body2_Swap": {
+                    "_text": "0xFF926C"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xFF5E5E"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0xE72158"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xFF9797"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE6FDFF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xA8FBFF"
+                },
+                "Special_Swap": {
+                    "_text": "0x00F9F2"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x00BFE1"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x00759B"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x6BFFC9"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFFFAF3"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xFAF3DA"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xF5E9C6"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xE9DAC7"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFFDFB"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xFFE4CC"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xFFC28C"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0xFF926C"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xFFE39F"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Yellow,Orange"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xFFE680"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Ranked"
+                },
+                "ColorSchemeID": {
+                    "_text": "27"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Ranked_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Season1"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "28"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x5A6D9E"
+                },
+                "Hair_Swap": {
+                    "_text": "0x323366"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x1C1E27"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xC8CDD2"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x919498"
+                },
+                "Body1_Swap": {
+                    "_text": "0x636970"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x27272E"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x1A1920"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x415A70"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xC2DFFF"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x4B74E5"
+                },
+                "Body2_Swap": {
+                    "_text": "0x2854D2"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x202B87"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x1D2562"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x5351F5"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xDBE9FF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x546680"
+                },
+                "Special_Swap": {
+                    "_text": "0x001E3F"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x101315"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x010102"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x2A0880"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE0E4FC"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xBFC8E5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x97A7BF"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x576D8A"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xF8FBFC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xD2E7F0"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xC4DCFF"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x84A7CA"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xBBE6F0"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,TeamBlue1,CommunityColors,HomeTeam,Ranked2,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x636970"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Brawlhalloween"
+                },
+                "ColorSchemeID": {
+                    "_text": "28"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Brawlhalloween_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Pumpkin"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "23"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFFDD8A"
+                },
+                "Hair_Swap": {
+                    "_text": "0xFF9D27"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xFF741E"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0x928A95"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x4B444F"
+                },
+                "Body1_Swap": {
+                    "_text": "0x27232C"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x1C1A20"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0F091C"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x36234A"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xA585B8"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x664C80"
+                },
+                "Body2_Swap": {
+                    "_text": "0x483362"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x2F1851"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x22113F"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x4A1C62"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFDD8A"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFA9B29"
+                },
+                "Special_Swap": {
+                    "_text": "0xEE6B15"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xD04400"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0xA82703"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xFF5819"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0x94859A"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0x504556"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x282231"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x1E1A27"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xA497BF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x49425B"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x30253F"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x221838"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x513677"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Black,HomeTeam"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x27232C"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "HomeTeam"
+                },
+                "ColorSchemeID": {
+                    "_text": "29"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_HomeTeam_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_BacktoSchool"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "25"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x3F577C"
+                },
+                "Hair_Swap": {
+                    "_text": "0X273350"
+                },
+                "HairDk_Swap": {
+                    "_text": "0X111624"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0x8399C1"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x3F577C"
+                },
+                "Body1_Swap": {
+                    "_text": "0X273350"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0X111624"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x030610"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x394F86"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xF79696"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xC92F48"
+                },
+                "Body2_Swap": {
+                    "_text": "0x620030"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x27000F"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x190009"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x9C0066"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFEFFDC"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFCEEC2"
+                },
+                "Special_Swap": {
+                    "_text": "0xE9C053"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x71512B"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x543938"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE98453"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xB9C0CD"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0x596474"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x3E4451"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x22252E"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFEFFDC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xFCEEC2"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xE9C053"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x71512B"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xF7D67B"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Black,Ranked,Brawlhalloween,Ranked2,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x620030"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "StPaddy"
+                },
+                "ColorSchemeID": {
+                    "_text": "30"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_StPaddy_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Shamrock"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "26"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFFA841"
+                },
+                "Hair_Swap": {
+                    "_text": "0xE07F31"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xC2521C"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xDAECE3"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x8FB69C"
+                },
+                "Body1_Swap": {
+                    "_text": "0x45663E"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x1E3C21"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0D2E10"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x3B6D58"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFFFFF"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFCF8D9"
+                },
+                "Body2_Swap": {
+                    "_text": "0xF0E9B9"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xD4C78A"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0xB49870"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xE7E9CE"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xDFFFC4"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x92FC65"
+                },
+                "Special_Swap": {
+                    "_text": "0x44D407"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x2C9500"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x01720A"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x18E098"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFAFFF1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xE1E9C5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC6D2B4"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x9AAA87"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFEFEEA"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xF5E689"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xD9AB25"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x65300B"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xF7C82D"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Green,Holiday,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x45663E"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "Ranked2"
+                },
+                "ColorSchemeID": {
+                    "_text": "31"
+                },
+                "DefaultUnlocked": {
+                    "_text": "false"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_Ranked2_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Season2"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "29"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "0"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xFEFEFF"
+                },
+                "Hair_Swap": {
+                    "_text": "0xF0F4FF"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xC9D5F8"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xC2CAE1"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x6A7699"
+                },
+                "Body1_Swap": {
+                    "_text": "0x404A68"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x19223C"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x070C19"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x344065"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFFFE6"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFFFF99"
+                },
+                "Body2_Swap": {
+                    "_text": "0xF6D356"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xDC9F26"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0xAB5B17"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xFBC14A"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xC2DFFF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x4B74E5"
+                },
+                "Special_Swap": {
+                    "_text": "0x2854D2"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x202B87"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x1D2562"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x5351F5"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xFAFBFF"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xE8EDFF"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC3CDEB"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA5AFCE"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFFFE6"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xFFFF99"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xF6D356"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0xDC9F26"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xFBC14A"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,TeamBlue1,HomeTeam,Ranked,CommunityColors,Yellow,GameFuel"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "FallbackMyTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF6D356"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "NO_COLOR_SCHEME"
+                },
+                "ColorSchemeID": {
+                    "_text": "32"
+                },
+                "DefaultUnlocked": {
+                    "_text": "TRUE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_NO_COLOR_SCHEME_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_None"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "Rarity": {
+                    "_text": "None"
+                },
+                "TeamColor": {
+                    "_text": "False"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamRed1"
+                },
+                "ColorSchemeID": {
+                    "_text": "33"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamRed1_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamRed"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "12"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "1"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x963E25"
+                },
+                "Hair_Swap": {
+                    "_text": "0x601B09"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x33160B"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFBC4BB"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xF17872"
+                },
+                "Body1_Swap": {
+                    "_text": "0xCF1F31"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x8B274A"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x6D1030"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xEE3064"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xECCDD5"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xBD6B81"
+                },
+                "Body2_Swap": {
+                    "_text": "0x7E4457"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x543237"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x382024"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xA14E30"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE6AABF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xC75295"
+                },
+                "Special_Swap": {
+                    "_text": "0x9B2477"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x5C2170"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x381843"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xBD3434"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E4E1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xEEBDB7"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC68A91"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA35162"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xECE9E5"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xB8B3B3"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x706868"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x322B27"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x937E7B"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Red,Orange,Purple,Brown,Pink,Sunset,Valhallentines"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamBlue1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xCF1F31"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamRed2"
+                },
+                "ColorSchemeID": {
+                    "_text": "34"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamRed2_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamRed"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "13"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "1"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x96254A"
+                },
+                "Hair_Swap": {
+                    "_text": "0x600920"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x330B18"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xF79696"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xC92F48"
+                },
+                "Body1_Swap": {
+                    "_text": "0x620030"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x27000F"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x190009"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x870076"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xF79696"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xC92F48"
+                },
+                "Body2_Swap": {
+                    "_text": "0x620030"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x27000F"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x190009"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x870076"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xF79696"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xC92F48"
+                },
+                "Special_Swap": {
+                    "_text": "0x620030"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x27000F"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x1E030A"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x690268"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E4E1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xEEBDB7"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC68A91"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA35162"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFDBFC"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xCB8DBC"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x9C2946"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x5B0E2A"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xBB2969"
+                },
+                "IndicatorColor": {
+                    "_text": "0x620030"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamRed3"
+                },
+                "ColorSchemeID": {
+                    "_text": "35"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamRed3_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamRed"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "14"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "1"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xEEC2D5"
+                },
+                "Hair_Swap": {
+                    "_text": "0xDB95BB"
+                },
+                "HairDk_Swap": {
+                    "_text": "0xA1527D"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFD4E2"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFFAAB0"
+                },
+                "Body1_Swap": {
+                    "_text": "0xF7747D"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xD41F5A"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0xA11F49"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xF79F74"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xFFD4E2"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xFFAAB0"
+                },
+                "Body2_Swap": {
+                    "_text": "0xF7747D"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0xD41F5A"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0xA11F49"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xF79F74"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xFFD4E2"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xFFAAB0"
+                },
+                "Special_Swap": {
+                    "_text": "0xF7747D"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0xD41F5A"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x910A36"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xE07BDF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E4E1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xEEBDB7"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xC68A91"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xA35162"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFE7EE"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xFFBFD0"
+                },
+                "Weapon_Swap": {
+                    "_text": "0xE994B5"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0xC65E7A"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0xFC88A1"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF7747D"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamRed4"
+                },
+                "ColorSchemeID": {
+                    "_text": "36"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamRed4_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Orange"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "0"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "1"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xD08133"
+                },
+                "Hair_Swap": {
+                    "_text": "0xAD5A09"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x4A2809"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xFFE7BF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xFFBC48"
+                },
+                "Body1_Swap": {
+                    "_text": "0xF58218"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0xAA240D"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x771606"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xDB5530"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xEEDDD8"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xDB917D"
+                },
+                "Body2_Swap": {
+                    "_text": "0xB86258"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x722929"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x4F0D0D"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xC98563"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xF5DAE7"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xD97F92"
+                },
+                "Special_Swap": {
+                    "_text": "0xCB295D"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x80082E"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x58182C"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0xDE5F47"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xF3E6D1"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xFAD592"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xEEAA6B"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0xD07B63"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xFFECDB"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xBFB9AE"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x79726C"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x563B2A"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x9A8479"
+                },
+                "IndicatorColor": {
+                    "_text": "0xF58218"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamBlue1"
+                },
+                "ColorSchemeID": {
+                    "_text": "37"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamBlue1_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamBlue"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "15"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "2"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x4173AF"
+                },
+                "Hair_Swap": {
+                    "_text": "0x254467"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x0E253D"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xDAFCF8"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xA2EEE2"
+                },
+                "Body1_Swap": {
+                    "_text": "0x50CCD7"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x30809C"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x20596D"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x7DE7BB"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xE9FFFB"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xC2FFEF"
+                },
+                "Body2_Swap": {
+                    "_text": "0xAAEED1"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x7FC6B8"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x5CB1A1"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xA5E7DA"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xD7F7E9"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x83E7BE"
+                },
+                "Special_Swap": {
+                    "_text": "0x40D092"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x29A68D"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x246B5D"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x50C5EC"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE3FAF7"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xC6F3EC"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xA4DDE2"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x7CAEBF"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xDAF7F4"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x9EBDBA"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x607577"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x2A4845"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x718B98"
+                },
+                "ExcludeOpponentTeamColor": {
+                    "_text": "Blue,Green,Cyan,CommunityColors,Ranked,Ranked2"
+                },
+                "FallbackOpponentTeamColor": {
+                    "_text": "TeamRed1"
+                },
+                "IndicatorColor": {
+                    "_text": "0x50CCD7"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamBlue2"
+                },
+                "ColorSchemeID": {
+                    "_text": "38"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamBlue2_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamBlue"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "16"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "2"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x8FBBEC"
+                },
+                "Hair_Swap": {
+                    "_text": "0x2C66E7"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x2C44D2"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xD4E8FF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x51A1FF"
+                },
+                "Body1_Swap": {
+                    "_text": "0x006EF7"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x0041D4"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x0E3462"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x6B88FF"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xD4E8FF"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x51A1FF"
+                },
+                "Body2_Swap": {
+                    "_text": "0x006EF7"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x0041D4"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x1D3038"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x6B88FF"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xD4E8FF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x51A1FF"
+                },
+                "Special_Swap": {
+                    "_text": "0x006EF7"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x0041D4"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x2E7787"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x8CBCFF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE0E4FC"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xBFC8E5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x97A7BF"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x576D8A"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xDAEBF7"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x97C3E2"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x5C8BAD"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x315E7E"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x6291D2"
+                },
+                "IndicatorColor": {
+                    "_text": "0x006EF7"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamBlue3"
+                },
+                "ColorSchemeID": {
+                    "_text": "39"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamBlue3_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_TeamBlue"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "17"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "2"
+                },
+                "HairLt_Swap": {
+                    "_text": "0x6FB0C6"
+                },
+                "Hair_Swap": {
+                    "_text": "0x2E558C"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x173579"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xB5D0EE"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0x17659C"
+                },
+                "Body1_Swap": {
+                    "_text": "0x003C66"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x002B4A"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x002138"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0x092DC4"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xB5D0EE"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0x17659C"
+                },
+                "Body2_Swap": {
+                    "_text": "0x003C66"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x002B4A"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x002138"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0x092DC4"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xB5D0EE"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0x17659C"
+                },
+                "Special_Swap": {
+                    "_text": "0x003C66"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x002B4A"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x041B2C"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x006663"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE0E4FC"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xBFC8E5"
+                },
+                "Cloth_Swap": {
+                    "_text": "0x97A7BF"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x576D8A"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xD9E0FF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0x9FB7EE"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x3F5FA8"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x1A3E66"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x4759C6"
+                },
+                "IndicatorColor": {
+                    "_text": "0x003C66"
+                }
+            },
+            {
+                "_attributes": {
+                    "ColorSchemeName": "TeamBlue4"
+                },
+                "ColorSchemeID": {
+                    "_text": "40"
+                },
+                "DefaultUnlocked": {
+                    "_text": "FALSE"
+                },
+                "DisplayNameKey": {
+                    "_text": "ColorSchemeType_TeamBlue4_DisplayName"
+                },
+                "IconName": {
+                    "_text": "a_ColorIcon_Purple"
+                },
+                "IconFileName": {
+                    "_text": "UI_Icons"
+                },
+                "OrderID": {
+                    "_text": "0"
+                },
+                "Rarity": {
+                    "_text": "R"
+                },
+                "TeamColor": {
+                    "_text": "2"
+                },
+                "HairLt_Swap": {
+                    "_text": "0xCBBBFF"
+                },
+                "Hair_Swap": {
+                    "_text": "0x7767E9"
+                },
+                "HairDk_Swap": {
+                    "_text": "0x3129A1"
+                },
+                "Body1VL_Swap": {
+                    "_text": "0xECD9FF"
+                },
+                "Body1Lt_Swap": {
+                    "_text": "0xCA93FF"
+                },
+                "Body1_Swap": {
+                    "_text": "0x874CD0"
+                },
+                "Body1Dk_Swap": {
+                    "_text": "0x4E2680"
+                },
+                "Body1VD_Swap": {
+                    "_text": "0x312243"
+                },
+                "Body1Acc_Swap": {
+                    "_text": "0xC559E2"
+                },
+                "Body2VL_Swap": {
+                    "_text": "0xDCDEF3"
+                },
+                "Body2Lt_Swap": {
+                    "_text": "0xA7A9E7"
+                },
+                "Body2_Swap": {
+                    "_text": "0x6668B4"
+                },
+                "Body2Dk_Swap": {
+                    "_text": "0x3C396D"
+                },
+                "Body2VD_Swap": {
+                    "_text": "0x2A293F"
+                },
+                "Body2Acc_Swap": {
+                    "_text": "0xA57DCB"
+                },
+                "SpecialVL_Swap": {
+                    "_text": "0xE7F9FF"
+                },
+                "SpecialLt_Swap": {
+                    "_text": "0xB4F0FF"
+                },
+                "Special_Swap": {
+                    "_text": "0x5DD3E7"
+                },
+                "SpecialDk_Swap": {
+                    "_text": "0x0679A8"
+                },
+                "SpecialVD_Swap": {
+                    "_text": "0x18536B"
+                },
+                "SpecialAcc_Swap": {
+                    "_text": "0x8CA9FF"
+                },
+                "ClothVL_Swap": {
+                    "_text": "0xE9DFF5"
+                },
+                "ClothLt_Swap": {
+                    "_text": "0xDBC7EE"
+                },
+                "Cloth_Swap": {
+                    "_text": "0xB192D7"
+                },
+                "ClothDk_Swap": {
+                    "_text": "0x876AAD"
+                },
+                "WeaponVL_Swap": {
+                    "_text": "0xEEECFF"
+                },
+                "WeaponLt_Swap": {
+                    "_text": "0xADA9BB"
+                },
+                "Weapon_Swap": {
+                    "_text": "0x656174"
+                },
+                "WeaponDk_Swap": {
+                    "_text": "0x3F3858"
+                },
+                "WeaponAcc_Swap": {
+                    "_text": "0x717498"
+                },
+                "IndicatorColor": {
+                    "_text": "0x874CD0"
+                }
+            }
+        ]
+    }
+}
